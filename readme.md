@@ -1,5 +1,5 @@
 Python - Based Multiobjective Algorithm and Genetic Network for Electrical Machine Technology Integrating Computation
-or pyMAGNETICS for short
+or pyMAGNETIC for short
 (chatGPT came up with the name)
 
 The goal of this project is to create a code that automates the free finite element based software FEMM to calculate the characteristics and optimize electrical machines.
